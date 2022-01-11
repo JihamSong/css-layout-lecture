@@ -1,1 +1,1 @@
-# css-layout-lecture
+# css-layout-masterclass
