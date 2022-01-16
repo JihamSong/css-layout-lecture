@@ -1,0 +1,8 @@
+@import "_variables";
+
+body {
+  background: $bgColor;
+  .title {
+    font-size: $titleSize;
+  }
+}
